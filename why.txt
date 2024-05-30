@@ -1,0 +1,4 @@
+Why are you interested in taking CMSC320? 
+
+I am interesting in taking CMSC320 because I am interested in machine learning and 
+Data science is an integral part of machine learning.
